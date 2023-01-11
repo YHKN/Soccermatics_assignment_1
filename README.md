@@ -1,6 +1,6 @@
 # Soccermatics_assignment_1
 
-This my result of the first assignment of the open version of David Sumpter's course **Soccermatics - Mathematical Modelling in Football** of fall 2022.
+This my result for the first assignment of the open version of David Sumpter's course **Soccermatics - Mathematical Modelling in Football** of fall 2022.
 
 The task was to make an assumption of a part of a player's performance, either at the men's EUROS 2021 or the women's EUROS 2022, and then write a one page report proving or disproving your assumption based on the data. The data to be used in this assignment was the free **statsbomb** data for those competitions.
 
